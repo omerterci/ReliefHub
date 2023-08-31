@@ -50,16 +50,10 @@ const LoginScreen = () => {
             }
       
             alert(errorMessage);
-          });
-        
-          
-          
+
+          });       
 
       };
-      
-      
-
-      
 
     return (
       <LoginScreenUI 
